@@ -1,6 +1,9 @@
 # Custom-action
 Prints the structure of files on the current container
-
+# Enviroment Variables
+None
+# Arguments
+None
 # Examples
 ```yml
 name: Action-test
