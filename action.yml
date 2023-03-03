@@ -1,0 +1,8 @@
+name: 'Tree action'
+description: 'Muestra la estructura de directorios, hecho en EATI 2023'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'folder'
+  color: 'green'
