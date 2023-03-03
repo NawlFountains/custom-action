@@ -1,5 +1,5 @@
 # Custom-action
-Prints the structure of files on the current container
+Prints file structure on current container
 # Enviroment Variables
 None
 # Arguments
